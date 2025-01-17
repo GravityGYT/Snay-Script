@@ -2,7 +2,7 @@
 // @name         Snay.io Public Skins Lib
 // @namespace    http://tampermonkey.net/
 // @version      6.4
-// @description  Snay.io Public Lib
+// @description  Snay.io Public Lib created to to share
 // @author       GravityG
 // @match        https://www.snay.io/*
 // @grant        none
